@@ -50,6 +50,8 @@ This application allows users to upload a zip file containing images, labels, an
 
 ## Usage
 
+Visit the project's website : [Annotation-Verifier]([https://huggingface.co/spaces/prudhvirajdowluri/annotation-verifier])
+
 1. Upload a zip file containing:
     - An `images` folder with the images.
     - A `labels` folder with the corresponding label files.
